@@ -1,0 +1,18 @@
+backend/
+  controllers/
+    authController.js
+    userController.js
+    applicationController.js
+  models/
+    User.js
+    Application.js
+  routes/
+    authRoutes.js
+    userRoutes.js
+    applicationRoutes.js
+  middleware/
+    authMiddleware.js
+  config/
+    db.js
+  .env
+  server.js
