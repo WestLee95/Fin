@@ -1,0 +1,102 @@
+/* General Styles */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1A2238;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    color: #9DAAF2;
+  }
+  
+  /* Form Styles */
+  form {
+    background-color: #1A2238;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #9DAAF2;
+    border-radius: 5px;
+    background-color: #1A2238;
+    color: #fff;
+  }
+  
+  button {
+    background-color: #FF6A3D;
+    color: #fff;
+    padding: 10px 20px;
+    border: 2px solid #FF6A3D;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  button:hover {
+    box-shadow: 0 0 10px #FF6A3D;
+  }
+  
+  /* Application Details */
+  .application-details {
+    background-color: #1A2238;
+    padding: 20px;
+    margin: 20px 0;
+    border: 2px solid #9DAAF2;
+    border-radius: 10px;
+  }
+  
+  .application-details h3 {
+    color: #F4DB7D;
+  }
+  
+  .application-details p {
+    color: #fff;
+  }
+  
+  .status-accepted {
+    color: #F4DB7D;
+  }
+  
+  .status-rejected {
+    color: #FF6A3D;
+  }
+  
+  /* Admin Panel */
+  .admin-panel {
+    background-color: #1A2238;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .admin-panel h2 {
+    color: #9DAAF2;
+  }
+  
+  .user-details {
+    background-color: #1A2238;
+    padding: 10px;
+    border: 2px solid #9DAAF2;
+    border-radius: 5px;
+    margin: 10px 0;
+  }
+  
+  .user-details p {
+    color: #fff;
+  }
+  
