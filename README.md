@@ -1,6 +1,7 @@
 ### README for University Booking System aka Fin
 
 ---
+#DO NOTE THE CSS FILE IS YET TO BE INTEGRATED. IT'S ALREADY AVAILABLE IN SRC/APP.CSS, JUST NOT IMPORTED ANYWHERE.
 
 ## University Booking System
 
