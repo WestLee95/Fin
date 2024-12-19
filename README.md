@@ -139,14 +139,6 @@ The frontend application should now be running on `http://localhost:3000`.
 - **Environment Variables**: Keep your environment variables secure and do not expose them in your code.
 - **Testing**: Test the application thoroughly to ensure all functionalities work as expected.
 
-### Acknowledgements
-
-- [Node.js](https://nodejs.org/)
-- [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [React](https://reactjs.org/)
-- [Axios](https://axios-http.com/)
-
 ---
 
 Feel free to reach out if you have any questions or need further assistance!
